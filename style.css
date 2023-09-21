@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    background-color: blueviolet;
+    width: 50%;
+}
+h1, p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
